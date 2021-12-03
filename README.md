@@ -56,3 +56,4 @@ The entities that can be thought of for the above problem are:
 ---
 
 # Class Diagram
+![Alt text](./SnakesAndLadders_ClassDiagram.jpg?raw=true "Class Diagram")
